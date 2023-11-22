@@ -8,3 +8,5 @@ This is just a basic protoype.
 More features to come.
 
 It was developed and tested on WAMP server.
+
+<img src="https://github.com/ightdragon/AskNitte/blob/master/AskNitte.jpg">
